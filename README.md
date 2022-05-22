@@ -1,5 +1,5 @@
 # python
-Simple python programs 
+Python programs 
 
 References:
 www.geeksforgeeks.org
